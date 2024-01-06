@@ -1,4 +1,4 @@
-# Exam Seating Arrangement System (ESAS) Installation Guide
+# Exam Seating Arrangement System (ESAS)
 
 ## Overview
 
